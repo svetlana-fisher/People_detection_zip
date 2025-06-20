@@ -1,0 +1,5 @@
+sahi
+torch
+opencv-python
+ultralytics
+tqdm
